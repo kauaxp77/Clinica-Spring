@@ -1,0 +1,16 @@
+# Saída de build do Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+.idea/
+*.iml
+*.iws
+.settings/
+.factorypath
+.vscode/
+
+# Logs e SO
+*.log
+.DS_Store
+Thumbs.db
